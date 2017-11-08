@@ -1,0 +1,14 @@
+C:\DotNetOctober\CSharpLibrary\0.03_StringsChallenges\bin\Debug\0.03_StringsChallenges.exe.config
+C:\DotNetOctober\CSharpLibrary\0.03_StringsChallenges\bin\Debug\0.03_StringsChallenges.exe
+C:\DotNetOctober\CSharpLibrary\0.03_StringsChallenges\bin\Debug\0.03_StringsChallenges.pdb
+C:\DotNetOctober\CSharpLibrary\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.exe
+C:\DotNetOctober\CSharpLibrary\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.03_StringsChallenges\bin\Debug\0.03_StringsChallenges.exe.config
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.03_StringsChallenges\bin\Debug\0.03_StringsChallenges.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.03_StringsChallenges\bin\Debug\0.03_StringsChallenges.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.03_StringsChallenges\obj\Debug\0.03_StringsChallenges.pdb

@@ -1,0 +1,14 @@
+C:\DotNetOctober\CSharpLibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe.config
+C:\DotNetOctober\CSharpLibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe
+C:\DotNetOctober\CSharpLibrary\0.06_ForLoops\bin\Debug\0.06_ForLoops.pdb
+C:\DotNetOctober\CSharpLibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.exe
+C:\DotNetOctober\CSharpLibrary\0.06_ForLoops\obj\Debug\0.06_ForLoops.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe.config
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_ForLoops\bin\Debug\0.06_ForLoops.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_ForLoops\bin\Debug\0.06_ForLoops.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_ForLoops\obj\Debug\0.06_ForLoops.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_ForLoops\obj\Debug\0.06_ForLoops.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_ForLoops\obj\Debug\0.06_ForLoops.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_ForLoops\obj\Debug\0.06_ForLoops.pdb

@@ -1,0 +1,14 @@
+C:\DotNetOctober\CSharpLibrary\0.06_FizzBuzz\bin\Debug\0.06_FizzBuzz.exe.config
+C:\DotNetOctober\CSharpLibrary\0.06_FizzBuzz\bin\Debug\0.06_FizzBuzz.exe
+C:\DotNetOctober\CSharpLibrary\0.06_FizzBuzz\bin\Debug\0.06_FizzBuzz.pdb
+C:\DotNetOctober\CSharpLibrary\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.exe
+C:\DotNetOctober\CSharpLibrary\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_FizzBuzz\bin\Debug\0.06_FizzBuzz.exe.config
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_FizzBuzz\bin\Debug\0.06_FizzBuzz.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_FizzBuzz\bin\Debug\0.06_FizzBuzz.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.06_FizzBuzz\obj\Debug\0.06_FizzBuzz.pdb

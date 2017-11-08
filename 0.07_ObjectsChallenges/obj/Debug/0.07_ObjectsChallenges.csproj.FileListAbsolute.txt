@@ -1,0 +1,14 @@
+C:\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.exe.config
+C:\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.exe
+C:\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.pdb
+C:\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.exe
+C:\DotNetOctober\CSharpLibrary\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.exe.config
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_ObjectsChallenges\bin\Debug\0.07_ObjectsChallenges.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_ObjectsChallenges\obj\Debug\0.07_ObjectsChallenges.pdb

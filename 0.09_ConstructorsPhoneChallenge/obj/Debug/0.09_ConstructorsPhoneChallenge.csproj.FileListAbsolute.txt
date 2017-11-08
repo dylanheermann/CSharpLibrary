@@ -1,0 +1,14 @@
+C:\DotNetOctober\CSharpLibrary\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.09_ConstructorsPhoneChallenge\bin\Debug\0.09_ConstructorsPhoneChallenge.exe.config
+C:\DotNetOctober\CSharpLibrary\0.09_ConstructorsPhoneChallenge\bin\Debug\0.09_ConstructorsPhoneChallenge.exe
+C:\DotNetOctober\CSharpLibrary\0.09_ConstructorsPhoneChallenge\bin\Debug\0.09_ConstructorsPhoneChallenge.pdb
+C:\DotNetOctober\CSharpLibrary\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.exe
+C:\DotNetOctober\CSharpLibrary\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_ConstructorsPhoneChallenge\bin\Debug\0.09_ConstructorsPhoneChallenge.exe.config
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_ConstructorsPhoneChallenge\bin\Debug\0.09_ConstructorsPhoneChallenge.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_ConstructorsPhoneChallenge\bin\Debug\0.09_ConstructorsPhoneChallenge.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_ConstructorsPhoneChallenge\obj\Debug\0.09_ConstructorsPhoneChallenge.pdb

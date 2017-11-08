@@ -1,0 +1,13 @@
+C:\DotNetOctober\CSharpLibrary\0.07_Objects\bin\Debug\0.07_Objects.exe.config
+C:\DotNetOctober\CSharpLibrary\0.07_Objects\bin\Debug\0.07_Objects.exe
+C:\DotNetOctober\CSharpLibrary\0.07_Objects\bin\Debug\0.07_Objects.pdb
+C:\DotNetOctober\CSharpLibrary\0.07_Objects\obj\Debug\0.07_Objects.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.07_Objects\obj\Debug\0.07_Objects.exe
+C:\DotNetOctober\CSharpLibrary\0.07_Objects\obj\Debug\0.07_Objects.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_Objects\bin\Debug\0.07_Objects.exe.config
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_Objects\bin\Debug\0.07_Objects.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_Objects\bin\Debug\0.07_Objects.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_Objects\obj\Debug\0.07_Objects.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_Objects\obj\Debug\0.07_Objects.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_Objects\obj\Debug\0.07_Objects.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.07_Objects\obj\Debug\0.07_Objects.pdb

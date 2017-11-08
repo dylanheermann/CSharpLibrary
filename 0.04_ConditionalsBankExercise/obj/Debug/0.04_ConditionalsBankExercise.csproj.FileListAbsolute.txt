@@ -1,0 +1,7 @@
+C:\DotNetOctober\CSharpLibrary\0.04_ConditionalsBankExercise\bin\Debug\0.04_ConditionalsBankExercise.exe.config
+C:\DotNetOctober\CSharpLibrary\0.04_ConditionalsBankExercise\bin\Debug\0.04_ConditionalsBankExercise.exe
+C:\DotNetOctober\CSharpLibrary\0.04_ConditionalsBankExercise\bin\Debug\0.04_ConditionalsBankExercise.pdb
+C:\DotNetOctober\CSharpLibrary\0.04_ConditionalsBankExercise\obj\Debug\0.04_ConditionalsBankExercise.csprojResolveAssemblyReference.cache
+C:\DotNetOctober\CSharpLibrary\0.04_ConditionalsBankExercise\obj\Debug\0.04_ConditionalsBankExercise.csproj.CoreCompileInputs.cache
+C:\DotNetOctober\CSharpLibrary\0.04_ConditionalsBankExercise\obj\Debug\0.04_ConditionalsBankExercise.exe
+C:\DotNetOctober\CSharpLibrary\0.04_ConditionalsBankExercise\obj\Debug\0.04_ConditionalsBankExercise.pdb

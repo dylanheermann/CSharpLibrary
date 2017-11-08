@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_Constructors\bin\Debug\0.09_Constructors.exe.config
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_Constructors\bin\Debug\0.09_Constructors.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_Constructors\bin\Debug\0.09_Constructors.pdb
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_Constructors\obj\Debug\0.09_Constructors.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_Constructors\obj\Debug\0.09_Constructors.exe
+C:\DotNetProjects\CSharpLibraryReference\CSharpLibrary-master\0.09_Constructors\obj\Debug\0.09_Constructors.pdb
